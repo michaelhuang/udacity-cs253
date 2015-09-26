@@ -1,0 +1,12 @@
+
+*.pyc
+
+*.iml
+
+*.xml
+
+ascii-chan/.idea/.name
+
+blog/.idea/.name
+
+wiki/.idea/.name
